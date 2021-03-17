@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lê V. Minh Đức
+- 👋 Hi, I’m Lê V. Minh Đức or Duke Le for non-Vietnamese speakers
 - 👀 I’m interested in Machine Learning, Signal Processing, Detection and Estimation Theory
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ECG Classification
 - 📫 How to reach me le.m.duc86@gmail.com
 
