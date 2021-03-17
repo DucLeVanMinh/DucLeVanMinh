@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DucLeVanMinh
+- 👋 Hi, I’m Lê V. Minh Đức
 - 👀 I’m interested in Machine Learning, Signal Processing, Detection and Estimation Theory
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ECG Classification
